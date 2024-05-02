@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @deepakkr14
+- 👋 Hi, I’m deepak kumar
 - 👀 I’m interested in ... FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning ... NEXT JS
 - 💞️ I’m looking to collaborate on ...  ANYTHING
-- 📫 How to reach me ... 
+- 📫 How to reach me ... linkedIn-- https://www.linkedin.com/in/deepak-kumar-30a91624a/
 - 😄 Pronouns: ... HI
-- ⚡ Fun fact: ... 'CURRENTLY MAKING BUGS INTO FEATURES  '
+- ⚡ Fun fact: ... 'CURRENTLY CONVERTING BUGS INTO FEATURES  '
 
 <!---
 deepakkr14/deepakkr14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
